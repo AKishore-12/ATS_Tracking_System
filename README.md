@@ -18,6 +18,3 @@ A Streamlit-based web app that uses Google Gemini LLM to analyze and improve res
 - Streamlit
 - Google Gemini LLM
 - PDF processing (PyPDF2, pdf2image)
-
-## Example
-![screenshot](screenshot.png) 
